@@ -4,8 +4,6 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
-<<<<<<< Updated upstream
-=======
 
 header {
   background-color: #f6f8fa;
@@ -47,4 +45,4 @@ body[data-theme='dark'] button {
   padding: 5px 10px;
   cursor: pointer;
 }
->>>>>>> Stashed changes
+
